@@ -1,4 +1,28 @@
 html, body{
   margin:0;
   padding: 0;
-}  
+}  <style>
+		
+        html, body {
+			padding: 0;
+			margin: 0;
+            font family:"Times";
+         	background-color:#ddffc2;
+        }
+        
+        h1 { 
+        	 font-family: "Times";
+             color: rgb(255, 128, 128);
+        }
+		
+        strong {
+        		color: rgb(204, 129, 247)
+                
+        }
+       
+       
+        h3 {
+        	color: rgb(105,105,105)
+        
+        
+        </style>
