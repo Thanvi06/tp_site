@@ -1,7 +1,6 @@
-
-         html, body {
-			padding: 0;
-			margin: 0;
+html, body {
+			padding: 1;
+			margin: 1;
             font family:"Times";
          	background-color:#fceded;
 	        text-align:center;
@@ -20,6 +19,3 @@
        
         h3 {
         	color: black
-            
-            
-        
